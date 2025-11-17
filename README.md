@@ -4,7 +4,7 @@ My nickname is Bank. I have a strong interest in Programming, Designing, and Dev
 
 ## 🧰 Tech stack & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,vue,tailwindcss,vite,vscode,bash,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,vue,tailwindcss,vite,windows,vscode,bash,git,github,)](https://skillicons.dev)
 
 ### 💼 Where to find my other work:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-transparent?style=for-the-badge&label=soon&color=e1306c)](.) [![YouTube Badge](https://img.shields.io/badge/YouTube-transparentx?style=for-the-badge&label=soon&color=ff0000)](.)
